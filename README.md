@@ -2,4 +2,4 @@
 - I’m 12 Years Old.
 - I'm a WWDC 2020 (Apple Worldwide Developers Conference 2020) Scholar.
 - I’m Interested in Developing User Interface.
-- I currently build Apps on Swift.
+- I currently build Apps in Swift.
