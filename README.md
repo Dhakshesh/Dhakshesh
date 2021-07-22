@@ -5,3 +5,4 @@
 - I currently build Apps in SwiftUI.
 
 ![Dhakshesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhakshesh&hide=contribs,prs)
+![Dhakshesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhakshesh&count_private=true)
