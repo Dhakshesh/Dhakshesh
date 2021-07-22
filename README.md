@@ -3,6 +3,3 @@
 - I'm a WWDC 2020 (Apple Worldwide Developers Conference 2020) Scholar.
 - I’m Interested in Developing User Interface.
 - I currently build Apps in SwiftUI.
-
-![Dhakshesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhakshesh&theme=dark&show_icons=true)
-
